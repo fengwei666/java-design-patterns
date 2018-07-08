@@ -158,8 +158,11 @@
         <module>eip-splitter</module>
         <module>eip-aggregator</module>
         <module>retry</module>
-		<module>trampoline</module>
+        <module>dirty-flag</module>
+        <module>trampoline</module>
         <module>serverless</module>
+        <module>ambassador</module>
+		    <module>acyclic-visitor</module>
     </modules>
 
     <repositories>
